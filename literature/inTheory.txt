@@ -1,0 +1,9 @@
+BUT WHAT IS A GOOD TRADING AI?
+
+I think that a good trading AI would have these capabilities:
+    - Broader view / zoom out: any trader can zoom out and check previous sr zones
+        etc. to check how will it affect the price. This means that other than the zoomed in view,
+        the AI must have access to important events at those levels that happened also a long time ago
+
+    - Dynamic positions: The capability to assess the accuracy of a guess and set the stop loss and
+        take profit accordingly. May also vary on the type of position

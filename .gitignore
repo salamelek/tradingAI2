@@ -1,0 +1,11 @@
+# idea folder
+.idea
+
+# testing files
+testing.py
+
+# pycache
+__pycache__/
+
+# ignore pickle files
+*.pickle
